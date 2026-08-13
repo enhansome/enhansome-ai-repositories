@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "description": "A curated list of open source repositories for AI Engineers\nIf you want to contribute to this list, please make a PR",
+      "items": [],
+      "title": "AI Infra Repositories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Gateway"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI Workload Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Copilot Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dataset Engineering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Evaluation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fine Tuning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Function Calling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graph RAG"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Guardrails"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Local Model Inference"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LLM Agent Framework"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Model Serving"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Observability"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pre Training"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Prompt Engineering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RAG Framework"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Structured Extraction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Structured Generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vector DB"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:32:17.963Z",
+    "original_repository": "altengineer/awesome-ai-repositories",
+    "original_repository_sha": "f4af377bf7ecd06b2712fbda3eee933d289da489",
+    "enhanced_repository": "enhansome/enhansome-ai-repositories",
+    "enhanced_repository_description": null,
+    "title": "Awesome ai repositories with stars"
+  }
+}
