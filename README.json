@@ -1,7 +1,476 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "litdata",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 758163683,
+            "language": "Python",
+            "last_commit": "2026-08-18T14:43:20Z",
+            "owner": "Lightning-AI",
+            "repo": "litData",
+            "stars": 611
+          }
+        }
+      ],
+      "title": "Dataset Engineering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangEvals",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 765149763,
+            "language": null,
+            "last_commit": "2026-02-15T18:31:16Z",
+            "owner": "langwatch",
+            "repo": "langevals",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poyro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 812796837,
+            "language": "TypeScript",
+            "last_commit": "2025-01-13T20:42:50Z",
+            "owner": "poyro",
+            "repo": "poyro",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "Evaluation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Axolotl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627727693,
+            "language": "Python",
+            "last_commit": "2026-08-21T18:24:30Z",
+            "owner": "axolotl-ai-cloud",
+            "repo": "axolotl",
+            "stars": 12396
+          }
+        }
+      ],
+      "title": "Fine Tuning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NeMo-Guardrails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 629494390,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:51:57Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 7008
+          }
+        }
+      ],
+      "title": "Guardrails"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "llama cpp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 612354784,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:01:36Z",
+            "owner": "ggml-org",
+            "repo": "llama.cpp",
+            "stars": 125401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whisper cpp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 541269386,
+            "language": "C++",
+            "last_commit": "2026-08-24T10:36:17Z",
+            "owner": "ggml-org",
+            "repo": "whisper.cpp",
+            "stars": 53135
+          }
+        }
+      ],
+      "title": "Local Model Inference"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BabyAGI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 622737738,
+            "language": "Python",
+            "last_commit": "2026-01-31T05:05:45Z",
+            "owner": "yoheinakajima",
+            "repo": "babyagi",
+            "stars": 22356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ragapp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 793454852,
+            "language": "TypeScript",
+            "last_commit": "2025-01-22T14:23:25Z",
+            "owner": "ragapp",
+            "repo": "ragapp",
+            "stars": 4441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 750069596,
+            "language": "Python",
+            "last_commit": "2026-08-21T22:16:25Z",
+            "owner": "apache",
+            "repo": "burr",
+            "stars": 2526
+          }
+        }
+      ],
+      "title": "LLM Agent Framework"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lightllm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 669420857,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:27:14Z",
+            "owner": "ModelTC",
+            "repo": "LightLLM",
+            "stars": 4235
+          }
+        }
+      ],
+      "title": "Model Serving"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangWatch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 689299900,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:12:49Z",
+            "owner": "langwatch",
+            "repo": "langwatch",
+            "stars": 3505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "burr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 750069596,
+            "language": "Python",
+            "last_commit": "2026-08-21T22:16:25Z",
+            "owner": "apache",
+            "repo": "burr",
+            "stars": 2526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hamilton",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 605682921,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-19T04:38:48Z",
+            "owner": "apache",
+            "repo": "hamilton",
+            "stars": 2574
+          }
+        }
+      ],
+      "title": "Observability"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "llm c",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783833344,
+            "language": "Cuda",
+            "last_commit": "2025-06-26T17:03:40Z",
+            "owner": "karpathy",
+            "repo": "llm.c",
+            "stars": 30856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "miniGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288108533,
+            "language": "Python",
+            "last_commit": "2024-08-15T04:09:40Z",
+            "owner": "karpathy",
+            "repo": "minGPT",
+            "stars": 24829
+          }
+        }
+      ],
+      "title": "Pre Training"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hamilton",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 605682921,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-19T04:38:48Z",
+            "owner": "apache",
+            "repo": "hamilton",
+            "stars": 2574
+          }
+        }
+      ],
+      "title": "Prompt Engineering"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlagEmbedding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673596675,
+            "language": "Python",
+            "last_commit": "2026-08-24T02:57:42Z",
+            "owner": "FlagOpen",
+            "repo": "FlagEmbedding",
+            "stars": 12079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autollm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 694565231,
+            "language": "Python",
+            "last_commit": "2024-01-29T08:07:50Z",
+            "owner": "fcakyon",
+            "repo": "autollm",
+            "stars": 1006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ragapp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 793454852,
+            "language": "TypeScript",
+            "last_commit": "2025-01-22T14:23:25Z",
+            "owner": "ragapp",
+            "repo": "ragapp",
+            "stars": 4441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hamilton",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 605682921,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-19T04:38:48Z",
+            "owner": "apache",
+            "repo": "hamilton",
+            "stars": 2574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RagBuilder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 819274200,
+            "language": "Python",
+            "last_commit": "2025-05-20T03:53:13Z",
+            "owner": "KruxAI",
+            "repo": "ragbuilder",
+            "stars": 1541
+          }
+        }
+      ],
+      "title": "RAG Framework"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "extractous",
+          "description": "<a href=https://github.com/ScrapeGraphAI/Scrapegraph-ai>",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810194768,
+            "language": "Rust",
+            "last_commit": "2024-12-21T10:13:30Z",
+            "owner": "yobix-ai",
+            "repo": "extractous",
+            "stars": 1770
+          }
+        }
+      ],
+      "title": "Structured Extraction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "guidance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564443255,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-21T17:08:04Z",
+            "owner": "guidance-ai",
+            "repo": "guidance",
+            "stars": 21716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonformer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634379415,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-24T22:48:05Z",
+            "owner": "1rgs",
+            "repo": "jsonformer",
+            "stars": 4934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sglang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 740303686,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:29:19Z",
+            "owner": "sgl-project",
+            "repo": "sglang",
+            "stars": 32354
+          }
+        }
+      ],
+      "title": "Structured Generation"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T13:42:57.946Z",
+    "last_updated": "2026-08-24T14:13:27.390Z",
     "original_repository": "altengineer/awesome-ai-repositories",
     "original_repository_id": 819322609,
     "original_repository_sha": "f4af377bf7ecd06b2712fbda3eee933d289da489",
