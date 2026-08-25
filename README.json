@@ -69,10 +69,10 @@
             "archived": false,
             "id": 627727693,
             "language": "Python",
-            "last_commit": "2026-08-21T18:24:30Z",
+            "last_commit": "2026-08-25T08:44:52Z",
             "owner": "axolotl-ai-cloud",
             "repo": "axolotl",
-            "stars": 12401
+            "stars": 12402
           }
         }
       ],
@@ -93,7 +93,7 @@
             "last_commit": "2026-08-25T02:11:41Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7013
+            "stars": 7014
           }
         }
       ],
@@ -111,10 +111,10 @@
             "archived": false,
             "id": 612354784,
             "language": "C++",
-            "last_commit": "2026-08-25T06:05:24Z",
+            "last_commit": "2026-08-25T13:56:20Z",
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 125500
+            "stars": 125565
           }
         },
         {
@@ -126,10 +126,10 @@
             "archived": false,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-24T10:36:17Z",
+            "last_commit": "2026-08-25T13:11:32Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53154
+            "stars": 53166
           }
         }
       ],
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 669420857,
             "language": "Python",
-            "last_commit": "2026-08-25T06:23:51Z",
+            "last_commit": "2026-08-25T13:18:45Z",
             "owner": "ModelTC",
             "repo": "LightLLM",
-            "stars": 4237
+            "stars": 4238
           }
         }
       ],
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 689299900,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:28:25Z",
+            "last_commit": "2026-08-25T13:59:10Z",
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 3509
+            "stars": 3511
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2025-06-26T17:03:40Z",
             "owner": "karpathy",
             "repo": "llm.c",
-            "stars": 30861
+            "stars": 30866
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2024-08-15T04:09:40Z",
             "owner": "karpathy",
             "repo": "minGPT",
-            "stars": 24830
+            "stars": 24832
           }
         }
       ],
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-24T02:57:42Z",
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12080
+            "stars": 12085
           }
         },
         {
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 740303686,
             "language": "Python",
-            "last_commit": "2026-08-25T06:23:44Z",
+            "last_commit": "2026-08-25T13:39:06Z",
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 32399
+            "stars": 32424
           }
         }
       ],
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:25.800Z",
+    "last_updated": "2026-08-25T14:00:11.837Z",
     "original_repository": "altengineer/awesome-ai-repositories",
     "original_repository_id": 819322609,
     "original_repository_sha": "f4af377bf7ecd06b2712fbda3eee933d289da489",
