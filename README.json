@@ -69,10 +69,10 @@
             "archived": false,
             "id": 627727693,
             "language": "Python",
-            "last_commit": "2026-08-26T08:24:29Z",
+            "last_commit": "2026-08-27T08:06:51Z",
             "owner": "axolotl-ai-cloud",
             "repo": "axolotl",
-            "stars": 12404
+            "stars": 12410
           }
         }
       ],
@@ -90,10 +90,10 @@
             "archived": false,
             "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-26T12:03:53Z",
+            "last_commit": "2026-08-26T21:38:00Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7015
+            "stars": 7022
           }
         }
       ],
@@ -111,10 +111,10 @@
             "archived": false,
             "id": 612354784,
             "language": "C++",
-            "last_commit": "2026-08-26T13:57:05Z",
+            "last_commit": "2026-08-27T11:10:09Z",
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 125734
+            "stars": 125881
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-25T13:11:32Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53191
+            "stars": 53220
           }
         }
       ],
@@ -150,7 +150,7 @@
             "last_commit": "2026-01-31T05:05:45Z",
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22356
+            "stars": 22357
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 669420857,
             "language": "Python",
-            "last_commit": "2026-08-26T13:16:21Z",
+            "last_commit": "2026-08-27T10:38:03Z",
             "owner": "ModelTC",
             "repo": "LightLLM",
-            "stars": 4243
+            "stars": 4245
           }
         }
       ],
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 689299900,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:59:47Z",
+            "last_commit": "2026-08-27T11:11:20Z",
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 3511
+            "stars": 3514
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2575
+            "stars": 2576
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2025-06-26T17:03:40Z",
             "owner": "karpathy",
             "repo": "llm.c",
-            "stars": 30877
+            "stars": 30883
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2024-08-15T04:09:40Z",
             "owner": "karpathy",
             "repo": "minGPT",
-            "stars": 24838
+            "stars": 24839
           }
         }
       ],
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2575
+            "stars": 2576
           }
         }
       ],
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-24T02:57:42Z",
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12085
+            "stars": 12090
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2575
+            "stars": 2576
           }
         },
         {
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 740303686,
             "language": "Python",
-            "last_commit": "2026-08-26T14:00:18Z",
+            "last_commit": "2026-08-27T10:53:13Z",
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 32484
+            "stars": 32550
           }
         }
       ],
@@ -470,9 +470,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:01:30.690Z",
-    "original_repository": "altengineer/awesome-ai-repositories",
-    "original_repository_id": 819322609,
+    "last_updated": "2026-08-27T11:20:31.549Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 819322609,
+      "language": null,
+      "last_commit": "2025-03-20T05:02:48Z",
+      "owner": "altengineer",
+      "repo": "awesome-ai-repositories",
+      "stars": 136
+    },
     "original_repository_sha": "f4af377bf7ecd06b2712fbda3eee933d289da489",
     "enhanced_repository": "enhansome/enhansome-ai-repositories",
     "enhanced_repository_description": null,
