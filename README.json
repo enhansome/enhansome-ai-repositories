@@ -16,7 +16,8 @@
             "owner": "Lightning-AI",
             "repo": "litData",
             "stars": 611
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Dataset Engineering"
@@ -37,7 +38,8 @@
             "owner": "langwatch",
             "repo": "langevals",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -52,7 +54,8 @@
             "owner": "poyro",
             "repo": "poyro",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Evaluation"
@@ -69,11 +72,12 @@
             "archived": false,
             "id": 627727693,
             "language": "Python",
-            "last_commit": "2026-08-27T12:31:47Z",
+            "last_commit": "2026-08-28T18:24:40Z",
             "owner": "axolotl-ai-cloud",
             "repo": "axolotl",
-            "stars": 12413
-          }
+            "stars": 12417
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Fine Tuning"
@@ -93,8 +97,9 @@
             "last_commit": "2026-08-27T16:40:49Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7023
-          }
+            "stars": 7025
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Guardrails"
@@ -111,11 +116,12 @@
             "archived": false,
             "id": 612354784,
             "language": "C++",
-            "last_commit": "2026-08-27T22:47:45Z",
+            "last_commit": "2026-08-28T22:38:22Z",
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 125956
-          }
+            "stars": 126106
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -129,8 +135,9 @@
             "last_commit": "2026-08-25T13:11:32Z",
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53234
-          }
+            "stars": 53260
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Local Model Inference"
@@ -150,8 +157,9 @@
             "last_commit": "2026-01-31T05:05:45Z",
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22358
-          }
+            "stars": 22357
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -166,7 +174,8 @@
             "owner": "ragapp",
             "repo": "ragapp",
             "stars": 4442
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -180,8 +189,9 @@
             "last_commit": "2026-08-25T21:51:19Z",
             "owner": "apache",
             "repo": "burr",
-            "stars": 2529
-          }
+            "stars": 2531
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "LLM Agent Framework"
@@ -198,11 +208,12 @@
             "archived": false,
             "id": 669420857,
             "language": "Python",
-            "last_commit": "2026-08-27T15:46:11Z",
+            "last_commit": "2026-08-28T17:30:57Z",
             "owner": "ModelTC",
             "repo": "LightLLM",
-            "stars": 4246
-          }
+            "stars": 4249
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Model Serving"
@@ -219,11 +230,12 @@
             "archived": false,
             "id": 689299900,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T22:51:38Z",
+            "last_commit": "2026-08-28T22:30:31Z",
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 3514
-          }
+            "stars": 3516
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -237,8 +249,9 @@
             "last_commit": "2026-08-25T21:51:19Z",
             "owner": "apache",
             "repo": "burr",
-            "stars": 2529
-          }
+            "stars": 2531
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -252,8 +265,9 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2580
-          }
+            "stars": 2582
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Observability"
@@ -273,8 +287,9 @@
             "last_commit": "2025-06-26T17:03:40Z",
             "owner": "karpathy",
             "repo": "llm.c",
-            "stars": 30885
-          }
+            "stars": 30890
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -288,8 +303,9 @@
             "last_commit": "2024-08-15T04:09:40Z",
             "owner": "karpathy",
             "repo": "minGPT",
-            "stars": 24838
-          }
+            "stars": 24842
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Pre Training"
@@ -309,8 +325,9 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2580
-          }
+            "stars": 2582
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Prompt Engineering"
@@ -330,8 +347,9 @@
             "last_commit": "2026-08-24T02:57:42Z",
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12094
-          }
+            "stars": 12098
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -346,7 +364,8 @@
             "owner": "fcakyon",
             "repo": "autollm",
             "stars": 1006
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -361,7 +380,8 @@
             "owner": "ragapp",
             "repo": "ragapp",
             "stars": 4442
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -375,8 +395,9 @@
             "last_commit": "2026-08-19T04:38:48Z",
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2580
-          }
+            "stars": 2582
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -391,7 +412,8 @@
             "owner": "KruxAI",
             "repo": "ragbuilder",
             "stars": 1541
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "RAG Framework"
@@ -412,7 +434,8 @@
             "owner": "yobix-ai",
             "repo": "extractous",
             "stars": 1772
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Structured Extraction"
@@ -432,8 +455,9 @@
             "last_commit": "2026-05-21T17:08:04Z",
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21720
-          }
+            "stars": 21730
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -448,7 +472,8 @@
             "owner": "1rgs",
             "repo": "jsonformer",
             "stars": 4934
-          }
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         },
         {
           "node_type": "item",
@@ -459,18 +484,19 @@
             "archived": false,
             "id": 740303686,
             "language": "Python",
-            "last_commit": "2026-08-27T22:56:26Z",
+            "last_commit": "2026-08-28T22:52:43Z",
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 32578
-          }
+            "stars": 32631
+          },
+          "first_seen": "2026-08-28T23:00:25.566Z"
         }
       ],
       "title": "Structured Generation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:56:28.432Z",
+    "last_updated": "2026-08-28T23:00:25.566Z",
     "original_repository_info": {
       "archived": false,
       "id": 819322609,
