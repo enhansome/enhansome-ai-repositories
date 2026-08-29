@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Speed up model training by fixing data loading.",
+            "homepage": null,
             "id": 758163683,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T21:02:04Z",
+            "open_issues": 57,
             "owner": "Lightning-AI",
             "repo": "litData",
-            "stars": 611
+            "stars": 611,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -32,12 +37,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LangEvals aggregates various language model evaluators into a single platform, providing a standard interface for a multitude of scores and LLM guardrails, for you to protect and benchmark your LLM models and pipelines.",
+            "homepage": "https://langwatch.ai/",
             "id": 765149763,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-15T18:31:16Z",
+            "open_issues": 0,
             "owner": "langwatch",
             "repo": "langevals",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "evaluation",
+              "guardrails",
+              "llm",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -48,12 +63,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Test your web app LLM integrations using existing testing frameworks. Confidently launch AI-driven webapps to production.",
+            "homepage": "https://docs.poyro.dev",
             "id": 812796837,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-01-13T20:42:50Z",
+            "open_issues": 13,
             "owner": "poyro",
             "repo": "poyro",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "ai",
+              "evaluation",
+              "llm",
+              "llmops",
+              "nodejs",
+              "prompt",
+              "prompt-engineering",
+              "prompts",
+              "testing",
+              "vitest"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -70,12 +101,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go ahead and axolotl questions",
+            "homepage": "https://docs.axolotl.ai",
             "id": 627727693,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:24:40Z",
+            "open_issues": 256,
             "owner": "axolotl-ai-cloud",
             "repo": "axolotl",
-            "stars": 12417
+            "stars": 12418,
+            "topics": [
+              "fine-tuning",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -92,12 +131,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+            "homepage": "https://docs.nvidia.com/nemo/guardrails/latest/index.html",
             "id": 629494390,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T16:40:49Z",
+            "open_issues": 205,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7025
+            "stars": 7025,
+            "topics": [
+              "agents",
+              "generative-ai",
+              "guardrails",
+              "llm-safety",
+              "llm-security",
+              "llms",
+              "nvidia",
+              "python",
+              "safety"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -114,12 +168,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM inference in C/C++",
+            "homepage": "https://llama.app",
             "id": 612354784,
             "language": "C++",
-            "last_commit": "2026-08-28T22:38:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:24:08Z",
+            "open_issues": 2273,
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 126106
+            "stars": 126134,
+            "topics": [
+              "ggml"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -130,12 +191,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of OpenAI's Whisper model in C/C++",
+            "homepage": null,
             "id": 541269386,
             "language": "C++",
-            "last_commit": "2026-08-25T13:11:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:28:05Z",
+            "open_issues": 1238,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53260
+            "stars": 53263,
+            "topics": [
+              "inference",
+              "openai",
+              "speech-recognition",
+              "speech-to-text",
+              "transformer",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -152,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://babyagi.org/",
             "id": 622737738,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-31T05:05:45Z",
+            "open_issues": 29,
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22357
+            "stars": 22357,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -168,12 +246,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to use Agentic RAG in any enterprise",
+            "homepage": null,
             "id": 793454852,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-22T14:23:25Z",
+            "open_issues": 67,
             "owner": "ragapp",
             "repo": "ragapp",
-            "stars": 4442
+            "stars": 4442,
+            "topics": [
+              "agentic",
+              "agents",
+              "ai",
+              "docker",
+              "llamaindex",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -184,12 +274,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.",
+            "homepage": "https://burr.apache.org/",
             "id": 750069596,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:51:19Z",
+            "open_issues": 108,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2531
+            "stars": 2531,
+            "topics": [
+              "ai",
+              "burr",
+              "chatbot-framework",
+              "dags",
+              "generative-ai",
+              "graphs",
+              "hacktoberfest",
+              "llmops",
+              "llms",
+              "mlops",
+              "persistent-data-structure",
+              "state-machine",
+              "state-management",
+              "visibility"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -206,12 +316,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+            "homepage": null,
             "id": 669420857,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:30:57Z",
+            "open_issues": 155,
             "owner": "ModelTC",
             "repo": "LightLLM",
-            "stars": 4249
+            "stars": 4249,
+            "topics": [
+              "deep-learning",
+              "gpt",
+              "llama",
+              "llm",
+              "model-serving",
+              "nlp",
+              "openai-triton"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -228,12 +351,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The platform for LLM evaluations and AI agent testing",
+            "homepage": "https://langwatch.ai",
             "id": 689299900,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:30:31Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:35:40Z",
+            "open_issues": 819,
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 3516
+            "stars": 3516,
+            "topics": [
+              "ai",
+              "analytics",
+              "datasets",
+              "dspy",
+              "evaluation",
+              "gpt",
+              "llm",
+              "llm-ops",
+              "llmops",
+              "low-code",
+              "observability",
+              "openai",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -244,12 +386,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.",
+            "homepage": "https://burr.apache.org/",
             "id": 750069596,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T21:51:19Z",
+            "open_issues": 108,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2531
+            "stars": 2531,
+            "topics": [
+              "ai",
+              "burr",
+              "chatbot-framework",
+              "dags",
+              "generative-ai",
+              "graphs",
+              "hacktoberfest",
+              "llmops",
+              "llms",
+              "mlops",
+              "persistent-data-structure",
+              "state-machine",
+              "state-management",
+              "visibility"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -260,12 +422,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+            "homepage": "https://hamilton.apache.org/",
             "id": 605682921,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T04:38:48Z",
+            "open_issues": 156,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2582
+            "stars": 2582,
+            "topics": [
+              "dag",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "dataframe",
+              "etl",
+              "etl-framework",
+              "etl-pipeline",
+              "feature-engineering",
+              "hacktoberfest",
+              "lineage",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "pandas",
+              "python",
+              "rag",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -282,12 +469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LLM training in simple, raw C/CUDA",
+            "homepage": null,
             "id": 783833344,
             "language": "Cuda",
+            "license": "MIT",
             "last_commit": "2025-06-26T17:03:40Z",
+            "open_issues": 224,
             "owner": "karpathy",
             "repo": "llm.c",
-            "stars": 30890
+            "stars": 30892,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -298,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+            "homepage": null,
             "id": 288108533,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-15T04:09:40Z",
+            "open_issues": 83,
             "owner": "karpathy",
             "repo": "minGPT",
-            "stars": 24842
+            "stars": 24841,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -320,12 +517,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+            "homepage": "https://hamilton.apache.org/",
             "id": 605682921,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T04:38:48Z",
+            "open_issues": 156,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2582
+            "stars": 2582,
+            "topics": [
+              "dag",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "dataframe",
+              "etl",
+              "etl-framework",
+              "etl-pipeline",
+              "feature-engineering",
+              "hacktoberfest",
+              "lineage",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "pandas",
+              "python",
+              "rag",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -342,12 +564,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retrieval and Retrieval-augmented LLMs",
+            "homepage": "http://www.bge-model.com/",
             "id": 673596675,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:57:42Z",
+            "open_issues": 906,
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12098
+            "stars": 12099,
+            "topics": [
+              "embeddings",
+              "information-retrieval",
+              "llm",
+              "retrieval-augmented-generation",
+              "sentence-embeddings",
+              "text-semantic-similarity"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -358,12 +592,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ship RAG based LLM web apps in seconds.",
+            "homepage": null,
             "id": 694565231,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2024-01-29T08:07:50Z",
+            "open_issues": 3,
             "owner": "fcakyon",
             "repo": "autollm",
-            "stars": 1006
+            "stars": 1006,
+            "topics": [
+              "anthropic",
+              "bedrock",
+              "cohere",
+              "fastapi",
+              "gradio",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llama2",
+              "llm",
+              "openai",
+              "palm",
+              "pypi",
+              "python",
+              "retrieval-augmented-generation",
+              "vector-database",
+              "vertex-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -374,12 +631,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to use Agentic RAG in any enterprise",
+            "homepage": null,
             "id": 793454852,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-22T14:23:25Z",
+            "open_issues": 67,
             "owner": "ragapp",
             "repo": "ragapp",
-            "stars": 4442
+            "stars": 4442,
+            "topics": [
+              "agentic",
+              "agents",
+              "ai",
+              "docker",
+              "llamaindex",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -390,12 +659,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+            "homepage": "https://hamilton.apache.org/",
             "id": 605682921,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T04:38:48Z",
+            "open_issues": 156,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2582
+            "stars": 2582,
+            "topics": [
+              "dag",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "dataframe",
+              "etl",
+              "etl-framework",
+              "etl-pipeline",
+              "feature-engineering",
+              "hacktoberfest",
+              "lineage",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "pandas",
+              "python",
+              "rag",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -406,12 +700,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit to create optimal Production-readyRetrieval Augmented Generation(RAG) setup for your data",
+            "homepage": "https://ragbuilder.pages.dev",
             "id": 819274200,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-20T03:53:13Z",
+            "open_issues": 19,
             "owner": "KruxAI",
             "repo": "ragbuilder",
-            "stars": 1541
+            "stars": 1541,
+            "topics": [
+              "developer-tools",
+              "genai",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -428,12 +731,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.",
+            "homepage": null,
             "id": 810194768,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-21T10:13:30Z",
+            "open_issues": 33,
             "owner": "yobix-ai",
             "repo": "extractous",
-            "stars": 1772
+            "stars": 1772,
+            "topics": [
+              "data-pipelines",
+              "docx",
+              "etl",
+              "etl-pipelines",
+              "extraction",
+              "llm",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "ocr",
+              "pdf",
+              "pdf-parser",
+              "rag",
+              "rust",
+              "tika",
+              "unstructured",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -450,12 +776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guidance language for controlling large language models.",
+            "homepage": null,
             "id": 564443255,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-21T17:08:04Z",
+            "open_issues": 321,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21730
+            "stars": 21730,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -466,12 +797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bulletproof Way to Generate Structured JSON from Language Models",
+            "homepage": null,
             "id": 634379415,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-24T22:48:05Z",
+            "open_issues": 53,
             "owner": "1rgs",
             "repo": "jsonformer",
-            "stars": 4934
+            "stars": 4934,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         },
@@ -482,12 +818,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+            "homepage": "https://sglang.io",
             "id": 740303686,
             "language": "Python",
-            "last_commit": "2026-08-28T22:52:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:50:54Z",
+            "open_issues": 4996,
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 32631
+            "stars": 32642,
+            "topics": [
+              "attention",
+              "blackwell",
+              "cuda",
+              "deepseek",
+              "diffusion",
+              "glm",
+              "gpt-oss",
+              "inference",
+              "llama",
+              "llm",
+              "minimax",
+              "moe",
+              "qwen",
+              "qwen-image",
+              "reinforcement-learning",
+              "transformer",
+              "vlm",
+              "wan"
+            ]
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
         }
@@ -496,15 +856,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:00:25.566Z",
+    "last_updated": "2026-08-29T05:01:24.858Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of open source repositories for AI Engineers",
+      "homepage": null,
       "id": 819322609,
       "language": null,
+      "license": null,
       "last_commit": "2025-03-20T05:02:48Z",
+      "open_issues": 13,
       "owner": "altengineer",
       "repo": "awesome-ai-repositories",
-      "stars": 136
+      "stars": 136,
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "awesome",
+        "awesome-list",
+        "fine-tune",
+        "finetuning",
+        "llama",
+        "llm",
+        "llmops",
+        "mcp",
+        "rag",
+        "vector-database",
+        "vector-search"
+      ]
     },
     "original_repository_sha": "f4af377bf7ecd06b2712fbda3eee933d289da489",
     "enhanced_repository": "enhansome/enhansome-ai-repositories",
