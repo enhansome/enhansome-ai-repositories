@@ -106,11 +106,11 @@
             "id": 627727693,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T17:17:16Z",
-            "open_issues": 242,
+            "last_commit": "2026-09-23T15:26:24Z",
+            "open_issues": 240,
             "owner": "axolotl-ai-cloud",
             "repo": "axolotl",
-            "stars": 12491,
+            "stars": 12495,
             "topics": [
               "fine-tuning",
               "llm"
@@ -137,10 +137,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T20:53:59Z",
-            "open_issues": 233,
+            "open_issues": 235,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7179,
+            "stars": 7185,
             "topics": [
               "agents",
               "generative-ai",
@@ -173,11 +173,11 @@
             "id": 612354784,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-22T17:15:31Z",
-            "open_issues": 2534,
+            "last_commit": "2026-09-23T17:39:42Z",
+            "open_issues": 2526,
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 129201,
+            "stars": 129322,
             "topics": [
               "ggml"
             ]
@@ -196,11 +196,11 @@
             "id": 541269386,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-22T05:23:39Z",
-            "open_issues": 344,
+            "last_commit": "2026-09-23T17:46:51Z",
+            "open_issues": 341,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 53857,
+            "stars": 53884,
             "topics": [
               "inference",
               "openai",
@@ -234,7 +234,7 @@
             "open_issues": 30,
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22357,
+            "stars": 22358,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -255,7 +255,7 @@
             "open_issues": 68,
             "owner": "ragapp",
             "repo": "ragapp",
-            "stars": 4442,
+            "stars": 4441,
             "topics": [
               "agentic",
               "agents",
@@ -283,7 +283,7 @@
             "open_issues": 100,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2554,
+            "stars": 2553,
             "topics": [
               "ai",
               "burr",
@@ -321,11 +321,11 @@
             "id": 669420857,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T11:19:56Z",
-            "open_issues": 151,
+            "last_commit": "2026-09-23T14:13:59Z",
+            "open_issues": 152,
             "owner": "ModelTC",
             "repo": "LightLLM",
-            "stars": 4297,
+            "stars": 4298,
             "topics": [
               "deep-learning",
               "gpt",
@@ -356,11 +356,11 @@
             "id": 689299900,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T17:11:47Z",
-            "open_issues": 225,
+            "last_commit": "2026-09-23T17:45:23Z",
+            "open_issues": 230,
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 4858,
+            "stars": 4864,
             "topics": [
               "agent-testing",
               "ai",
@@ -398,7 +398,7 @@
             "open_issues": 100,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2554,
+            "stars": 2553,
             "topics": [
               "ai",
               "burr",
@@ -430,11 +430,11 @@
             "id": 605682921,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T19:39:18Z",
-            "open_issues": 177,
+            "last_commit": "2026-09-23T02:58:48Z",
+            "open_issues": 175,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2597,
+            "stars": 2598,
             "topics": [
               "dag",
               "data-analysis",
@@ -481,7 +481,7 @@
             "open_issues": 224,
             "owner": "karpathy",
             "repo": "llm.c",
-            "stars": 31046,
+            "stars": 31047,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -502,7 +502,7 @@
             "open_issues": 83,
             "owner": "karpathy",
             "repo": "minGPT",
-            "stars": 24911,
+            "stars": 24912,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -525,11 +525,11 @@
             "id": 605682921,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T19:39:18Z",
-            "open_issues": 177,
+            "last_commit": "2026-09-23T02:58:48Z",
+            "open_issues": 175,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2597,
+            "stars": 2598,
             "topics": [
               "dag",
               "data-analysis",
@@ -576,7 +576,7 @@
             "open_issues": 910,
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12185,
+            "stars": 12188,
             "topics": [
               "embeddings",
               "information-retrieval",
@@ -604,7 +604,7 @@
             "open_issues": 3,
             "owner": "fcakyon",
             "repo": "autollm",
-            "stars": 1004,
+            "stars": 1003,
             "topics": [
               "anthropic",
               "bedrock",
@@ -643,7 +643,7 @@
             "open_issues": 68,
             "owner": "ragapp",
             "repo": "ragapp",
-            "stars": 4442,
+            "stars": 4441,
             "topics": [
               "agentic",
               "agents",
@@ -667,11 +667,11 @@
             "id": 605682921,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T19:39:18Z",
-            "open_issues": 177,
+            "last_commit": "2026-09-23T02:58:48Z",
+            "open_issues": 175,
             "owner": "apache",
             "repo": "hamilton",
-            "stars": 2597,
+            "stars": 2598,
             "topics": [
               "dag",
               "data-analysis",
@@ -785,10 +785,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-05-21T17:08:04Z",
-            "open_issues": 332,
+            "open_issues": 333,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21773,
+            "stars": 21775,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -826,11 +826,11 @@
             "id": 740303686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T17:21:12Z",
-            "open_issues": 5361,
+            "last_commit": "2026-09-23T17:31:52Z",
+            "open_issues": 5375,
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 36325,
+            "stars": 36377,
             "topics": [
               "attention",
               "blackwell",
@@ -859,7 +859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:37:17.032Z",
+    "last_updated": "2026-09-23T17:50:13.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open source repositories for AI Engineers",
