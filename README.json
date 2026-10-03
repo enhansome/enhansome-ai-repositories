@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "litdata",
-          "description": null,
+          "description": "Lightning-AI/litData",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "LangEvals",
-          "description": null,
+          "description": "langwatch/langevals",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -59,7 +59,7 @@
         {
           "node_type": "item",
           "title": "Poyro",
-          "description": null,
+          "description": "poyro/poyro",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -97,7 +97,7 @@
         {
           "node_type": "item",
           "title": "Axolotl",
-          "description": null,
+          "description": "axolotl-ai-cloud/axolotl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -106,11 +106,11 @@
             "id": 627727693,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:55:45Z",
-            "open_issues": 240,
+            "last_commit": "2026-10-03T00:30:01Z",
+            "open_issues": 242,
             "owner": "axolotl-ai-cloud",
             "repo": "axolotl",
-            "stars": 12512,
+            "stars": 12513,
             "topics": [
               "fine-tuning",
               "llm"
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "NeMo-Guardrails",
-          "description": null,
+          "description": "NVIDIA-NeMo/Guardrails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,11 +136,11 @@
             "id": 629494390,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:08:09Z",
-            "open_issues": 258,
+            "last_commit": "2026-10-02T23:55:38Z",
+            "open_issues": 259,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7234,
+            "stars": 7236,
             "topics": [
               "agents",
               "generative-ai",
@@ -164,7 +164,7 @@
         {
           "node_type": "item",
           "title": "llama cpp",
-          "description": null,
+          "description": "ggml-org/llama.cpp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -173,11 +173,11 @@
             "id": 612354784,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:32:58Z",
-            "open_issues": 2522,
+            "last_commit": "2026-10-03T02:35:40Z",
+            "open_issues": 2520,
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 130150,
+            "stars": 130176,
             "topics": [
               "ggml"
             ]
@@ -187,7 +187,7 @@
         {
           "node_type": "item",
           "title": "whisper cpp",
-          "description": null,
+          "description": "ggml-org/whisper.cpp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,7 +200,7 @@
             "open_issues": 349,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54100,
+            "stars": 54102,
             "topics": [
               "inference",
               "openai",
@@ -221,7 +221,7 @@
         {
           "node_type": "item",
           "title": "BabyAGI",
-          "description": null,
+          "description": "yoheinakajima/babyagi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -242,7 +242,7 @@
         {
           "node_type": "item",
           "title": "ragapp",
-          "description": null,
+          "description": "ragapp/ragapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,7 +255,7 @@
             "open_issues": 68,
             "owner": "ragapp",
             "repo": "ragapp",
-            "stars": 4446,
+            "stars": 4447,
             "topics": [
               "agentic",
               "agents",
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "burr",
-          "description": null,
+          "description": "apache/burr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "lightllm",
-          "description": null,
+          "description": "ModelTC/LightLLM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,10 +322,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T14:31:52Z",
-            "open_issues": 169,
+            "open_issues": 168,
             "owner": "ModelTC",
             "repo": "LightLLM",
-            "stars": 4306,
+            "stars": 4305,
             "topics": [
               "deep-learning",
               "gpt",
@@ -347,7 +347,7 @@
         {
           "node_type": "item",
           "title": "LangWatch",
-          "description": null,
+          "description": "langwatch/langwatch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,11 +356,11 @@
             "id": 689299900,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:08:54Z",
+            "last_commit": "2026-10-03T01:36:22Z",
             "open_issues": 250,
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 4905,
+            "stars": 4907,
             "topics": [
               "agent-testing",
               "ai",
@@ -385,7 +385,7 @@
         {
           "node_type": "item",
           "title": "burr",
-          "description": null,
+          "description": "apache/burr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -421,7 +421,7 @@
         {
           "node_type": "item",
           "title": "hamilton",
-          "description": null,
+          "description": "apache/hamilton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -468,7 +468,7 @@
         {
           "node_type": "item",
           "title": "llm c",
-          "description": null,
+          "description": "karpathy/llm.c",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -481,7 +481,7 @@
             "open_issues": 226,
             "owner": "karpathy",
             "repo": "llm.c",
-            "stars": 31085,
+            "stars": 31089,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -489,7 +489,7 @@
         {
           "node_type": "item",
           "title": "miniGPT",
-          "description": null,
+          "description": "karpathy/minGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -502,7 +502,7 @@
             "open_issues": 83,
             "owner": "karpathy",
             "repo": "minGPT",
-            "stars": 24921,
+            "stars": 24923,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -516,7 +516,7 @@
         {
           "node_type": "item",
           "title": "hamilton",
-          "description": null,
+          "description": "apache/hamilton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -563,7 +563,7 @@
         {
           "node_type": "item",
           "title": "FlagEmbedding",
-          "description": null,
+          "description": "FlagOpen/FlagEmbedding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -591,7 +591,7 @@
         {
           "node_type": "item",
           "title": "autollm",
-          "description": null,
+          "description": "fcakyon/autollm",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -630,7 +630,7 @@
         {
           "node_type": "item",
           "title": "ragapp",
-          "description": null,
+          "description": "ragapp/ragapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -643,7 +643,7 @@
             "open_issues": 68,
             "owner": "ragapp",
             "repo": "ragapp",
-            "stars": 4446,
+            "stars": 4447,
             "topics": [
               "agentic",
               "agents",
@@ -658,7 +658,7 @@
         {
           "node_type": "item",
           "title": "hamilton",
-          "description": null,
+          "description": "apache/hamilton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -699,7 +699,7 @@
         {
           "node_type": "item",
           "title": "RagBuilder",
-          "description": null,
+          "description": "KruxAI/ragbuilder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -775,7 +775,7 @@
         {
           "node_type": "item",
           "title": "guidance",
-          "description": null,
+          "description": "guidance-ai/guidance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -788,7 +788,7 @@
             "open_issues": 339,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21785,
+            "stars": 21786,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -796,7 +796,7 @@
         {
           "node_type": "item",
           "title": "jsonformer",
-          "description": null,
+          "description": "1rgs/jsonformer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -817,7 +817,7 @@
         {
           "node_type": "item",
           "title": "sglang",
-          "description": null,
+          "description": "sgl-project/sglang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -826,11 +826,11 @@
             "id": 740303686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:04:14Z",
-            "open_issues": 5515,
+            "last_commit": "2026-10-03T04:22:39Z",
+            "open_issues": 5535,
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 36718,
+            "stars": 36733,
             "topics": [
               "attention",
               "blackwell",
@@ -859,7 +859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:22:25.785Z",
+    "last_updated": "2026-10-03T04:32:05.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open source repositories for AI Engineers",
