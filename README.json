@@ -106,11 +106,11 @@
             "id": 627727693,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:39:57Z",
+            "last_commit": "2026-10-06T18:30:23Z",
             "open_issues": 244,
             "owner": "axolotl-ai-cloud",
             "repo": "axolotl",
-            "stars": 12524,
+            "stars": 12526,
             "topics": [
               "fine-tuning",
               "llm"
@@ -136,11 +136,11 @@
             "id": 629494390,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T10:05:10Z",
-            "open_issues": 263,
+            "last_commit": "2026-10-06T17:29:59Z",
+            "open_issues": 264,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7247,
+            "stars": 7248,
             "topics": [
               "agents",
               "generative-ai",
@@ -173,11 +173,11 @@
             "id": 612354784,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:16:50Z",
-            "open_issues": 2524,
+            "last_commit": "2026-10-06T18:46:58Z",
+            "open_issues": 2507,
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 130440,
+            "stars": 130485,
             "topics": [
               "ggml"
             ]
@@ -196,11 +196,11 @@
             "id": 541269386,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:41:11Z",
-            "open_issues": 353,
+            "last_commit": "2026-10-06T17:39:15Z",
+            "open_issues": 351,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 54167,
+            "stars": 54173,
             "topics": [
               "inference",
               "openai",
@@ -234,7 +234,7 @@
             "open_issues": 32,
             "owner": "yoheinakajima",
             "repo": "babyagi",
-            "stars": 22362,
+            "stars": 22361,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -255,7 +255,7 @@
             "open_issues": 68,
             "owner": "ragapp",
             "repo": "ragapp",
-            "stars": 4444,
+            "stars": 4445,
             "topics": [
               "agentic",
               "agents",
@@ -280,10 +280,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-04T20:38:06Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2565,
+            "stars": 2567,
             "topics": [
               "ai",
               "burr",
@@ -356,11 +356,11 @@
             "id": 689299900,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:08:01Z",
-            "open_issues": 263,
+            "last_commit": "2026-10-06T18:52:36Z",
+            "open_issues": 276,
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 4918,
+            "stars": 4921,
             "topics": [
               "agent-testing",
               "ai",
@@ -395,10 +395,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-04T20:38:06Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2565,
+            "stars": 2567,
             "topics": [
               "ai",
               "burr",
@@ -481,7 +481,7 @@
             "open_issues": 227,
             "owner": "karpathy",
             "repo": "llm.c",
-            "stars": 31107,
+            "stars": 31104,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -502,7 +502,7 @@
             "open_issues": 83,
             "owner": "karpathy",
             "repo": "minGPT",
-            "stars": 24934,
+            "stars": 24933,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -573,10 +573,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-24T02:57:42Z",
-            "open_issues": 918,
+            "open_issues": 919,
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12216,
+            "stars": 12217,
             "topics": [
               "embeddings",
               "information-retrieval",
@@ -643,7 +643,7 @@
             "open_issues": 68,
             "owner": "ragapp",
             "repo": "ragapp",
-            "stars": 4444,
+            "stars": 4445,
             "topics": [
               "agentic",
               "agents",
@@ -743,7 +743,7 @@
             "open_issues": 34,
             "owner": "yobix-ai",
             "repo": "extractous",
-            "stars": 1779,
+            "stars": 1780,
             "topics": [
               "data-pipelines",
               "docx",
@@ -788,7 +788,7 @@
             "open_issues": 343,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21787,
+            "stars": 21789,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -826,11 +826,11 @@
             "id": 740303686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:15:58Z",
-            "open_issues": 5531,
+            "last_commit": "2026-10-06T18:02:27Z",
+            "open_issues": 5551,
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 36813,
+            "stars": 36818,
             "topics": [
               "attention",
               "blackwell",
@@ -859,7 +859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:17:41.729Z",
+    "last_updated": "2026-10-06T18:53:25.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open source repositories for AI Engineers",
