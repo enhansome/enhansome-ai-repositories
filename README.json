@@ -106,11 +106,11 @@
             "id": 627727693,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T18:24:44Z",
-            "open_issues": 256,
+            "last_commit": "2026-11-25T18:40:22Z",
+            "open_issues": 260,
             "owner": "axolotl-ai-cloud",
             "repo": "axolotl",
-            "stars": 12749,
+            "stars": 12751,
             "topics": [
               "fine-tuning",
               "llm"
@@ -136,11 +136,11 @@
             "id": 629494390,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T20:46:31Z",
+            "last_commit": "2026-11-25T19:40:04Z",
             "open_issues": 292,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7572,
+            "stars": 7580,
             "topics": [
               "agents",
               "generative-ai",
@@ -173,11 +173,11 @@
             "id": 612354784,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-24T22:44:36Z",
-            "open_issues": 2663,
+            "last_commit": "2026-11-25T22:14:32Z",
+            "open_issues": 2649,
             "owner": "ggml-org",
             "repo": "llama.cpp",
-            "stars": 136142,
+            "stars": 136267,
             "topics": [
               "ggml"
             ]
@@ -196,11 +196,11 @@
             "id": 541269386,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-24T14:06:52Z",
-            "open_issues": 368,
+            "last_commit": "2026-11-25T17:23:28Z",
+            "open_issues": 367,
             "owner": "ggml-org",
             "repo": "whisper.cpp",
-            "stars": 55493,
+            "stars": 55519,
             "topics": [
               "inference",
               "openai",
@@ -245,7 +245,7 @@
           "description": "ragapp/ragapp",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "The easiest way to use Agentic RAG in any enterprise",
             "homepage": null,
             "id": 793454852,
@@ -279,11 +279,11 @@
             "id": 750069596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T00:06:22Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-25T04:32:29Z",
+            "open_issues": 119,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2609,
+            "stars": 2610,
             "topics": [
               "ai",
               "burr",
@@ -321,11 +321,11 @@
             "id": 669420857,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T12:54:03Z",
-            "open_issues": 178,
+            "last_commit": "2026-11-25T16:06:16Z",
+            "open_issues": 179,
             "owner": "ModelTC",
             "repo": "LightLLM",
-            "stars": 4371,
+            "stars": 4372,
             "topics": [
               "deep-learning",
               "gpt",
@@ -356,11 +356,11 @@
             "id": 689299900,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T22:36:41Z",
-            "open_issues": 521,
+            "last_commit": "2026-11-25T22:26:58Z",
+            "open_issues": 541,
             "owner": "langwatch",
             "repo": "langwatch",
-            "stars": 5053,
+            "stars": 5055,
             "topics": [
               "agent-testing",
               "ai",
@@ -394,11 +394,11 @@
             "id": 750069596,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T00:06:22Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-25T04:32:29Z",
+            "open_issues": 119,
             "owner": "apache",
             "repo": "burr",
-            "stars": 2609,
+            "stars": 2610,
             "topics": [
               "ai",
               "burr",
@@ -481,7 +481,7 @@
             "open_issues": 233,
             "owner": "karpathy",
             "repo": "llm.c",
-            "stars": 31534,
+            "stars": 31550,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -502,7 +502,7 @@
             "open_issues": 83,
             "owner": "karpathy",
             "repo": "minGPT",
-            "stars": 25053,
+            "stars": 25059,
             "topics": []
           },
           "first_seen": "2026-08-28T23:00:25.566Z"
@@ -576,7 +576,7 @@
             "open_issues": 942,
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12358,
+            "stars": 12360,
             "topics": [
               "embeddings",
               "information-retrieval",
@@ -633,7 +633,7 @@
           "description": "ragapp/ragapp",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "The easiest way to use Agentic RAG in any enterprise",
             "homepage": null,
             "id": 793454852,
@@ -826,11 +826,11 @@
             "id": 740303686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T22:56:57Z",
-            "open_issues": 7359,
+            "last_commit": "2026-11-25T22:25:13Z",
+            "open_issues": 7444,
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 39025,
+            "stars": 39061,
             "topics": [
               "attention",
               "blackwell",
@@ -859,7 +859,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:59:31.034Z",
+    "last_updated": "2026-11-25T22:27:43.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of open source repositories for AI Engineers",
